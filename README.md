@@ -4,6 +4,10 @@
 
 Este projeto visa gerar formas geométricas fractalizadas e evoluí-las utilizando **Machine Learning** e **o Método de Euler**. As imagens são geradas, treinadas e transformadas dinamicamente em novas formas fractais, permitindo exploração interativa em **3D**.
 
+# Fractal Visualization
+
+![Fractal Figure](/data/Figure_1.png)
+
 ## Objetivos
 
 - Criar um **gerador de fractais** dinâmico.
